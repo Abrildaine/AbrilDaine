@@ -16,7 +16,7 @@ Mi objetivo es poder saber aprender variedad de lenguajes y tecnicas para poder 
 - GIT
 
 Contactos:
-- https://www.linkedin.com/in/abril-daine-96047a205/
+- https://www.linkedin.com/in/abril-daine/
 - correo: abrudaine@gmail.com
 - +542612196977
 
