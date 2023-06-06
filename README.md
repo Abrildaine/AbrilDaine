@@ -2,6 +2,7 @@ Mi nombre es Abril Daine.
 
 Soy programadora fullstack, product manager y diseñadora UX/UI.
 Antes de comenzar con los cursos no tenía conocimientos al respecto, ha sido todo un desafio involucrarme en este mundo.
+Siempre me gusto expandirme y poder conocer más sobre mis intereses, me dedico sumamente a lo que hago y lo trabajo con mucha responsabilidad y dedicación.
 
 Actualmente trabajo en proyectos individuales y en cursos para poder seguir perfeccionandome y aprendiendo más lenguajes. Me gusta poder seguir aprendiendo y mejorando conocimientos previos.
 Mi objetivo es poder saber aprender variedad de lenguajes y tecnicas para poder defender cualquier desafio que se me proponga. Me parece fascinante todo lo que se puede hacer con estas herramientas y disfruto mucho el proceso.
